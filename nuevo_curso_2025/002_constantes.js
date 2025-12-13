@@ -28,12 +28,17 @@ const objeto = {
   edad: 35,
 };
 
+// Declaramos un arreglo como constante
 const colores = ['blanco', 'negro', 'azul'];
 
 console.log(objeto);
 console.log(colores);
 
+// Añadimos una nueva propiedad al objeto
 objeto.correo = 'juandanielsierra@algo.com';
+
+// Añadimos un nuevo elemento al arreglo
 colores.push('anaranjado');
+
 console.log(objeto);
 console.log(colores);
