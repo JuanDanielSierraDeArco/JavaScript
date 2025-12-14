@@ -95,6 +95,3 @@ console.log(Object.values(persona));
 
 // Devuelve un arreglo de pares [clave, valor]
 console.log(Object.entries(persona));
-
-// Copia las propiedades del objeto persona a un nuevo objeto
-console.log(Object.assign({}, persona));
