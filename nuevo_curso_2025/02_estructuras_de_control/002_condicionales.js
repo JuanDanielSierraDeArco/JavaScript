@@ -28,10 +28,7 @@ if (edad >= 18) {
 
 // Operador ternario
 // Forma corta de escribir un if/else
-console.log(
-    'Eres',
-    (edad >= 18) ? 'mayor de edad' : 'menor de edad'
-);
+console.log('Eres',(edad >= 18) ? 'mayor de edad' : 'menor de edad');
 
 /* =========================
    IF - ELSE IF - ELSE
