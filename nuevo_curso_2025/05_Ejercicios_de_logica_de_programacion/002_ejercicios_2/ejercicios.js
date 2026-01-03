@@ -97,9 +97,6 @@ const remplazotexto = (texto="", valor="")=>{
     :(!valor)
     ? console.warn('Ingresa un patron')
     : console.info(texto.replace(new RegExp(valor,"ig"),""));
-    
-
-
 };
 
 remplazotexto();
