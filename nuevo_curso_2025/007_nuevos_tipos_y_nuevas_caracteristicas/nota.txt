@@ -1,8 +1,9 @@
-Hola, retomando mi estudio de JavaScript.
-Hoy estoy estudiando [TEMA].
+Hola, retomando mi estudio de JavaScript
+Hoy estoy estudiando WeakSets y WeakMaps.
 Dame sugerencias, consejos, errores comunes y ayúdame a comentar el siguiente código:
 
-
-Map
+ 
+weaksets y weaksaps
+nuevos tipos y caracteristicas weaksets y weaksaps
 
 "background: rgb(70, 68, 68);"
