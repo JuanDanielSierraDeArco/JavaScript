@@ -1,9 +1,9 @@
 Hola, retomando mi estudio de JavaScript
-Hoy estoy estudiando WeakSets y WeakMaps.
+Hoy estoy estudiando Iterables & Iterators.
 Dame sugerencias, consejos, errores comunes y ayúdame a comentar el siguiente código:
 
  
-weaksets y weaksaps
-nuevos tipos y caracteristicas weaksets y weaksaps
+iterables & iterators
+nuevos tipos y caracteristicas iterables & iterators
 
 "background: rgb(70, 68, 68);"
