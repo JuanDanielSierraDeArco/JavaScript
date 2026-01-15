@@ -1,5 +1,5 @@
 Hola, retomando mi estudio de JavaScript
-Hoy estoy estudiando generators.
+Hoy estoy estudiando proxies.
 Dame sugerencias, consejos, errores comunes y ayúdame a comentar el siguiente código:
 
  
@@ -7,3 +7,5 @@ generators
 nuevos tipos y caracteristicas generators
 
 "background: rgb(70, 68, 68);"
+
+<link rel="icon" type="image/png" sizes="16x16" href="../../img/favicon-16x16.png">
