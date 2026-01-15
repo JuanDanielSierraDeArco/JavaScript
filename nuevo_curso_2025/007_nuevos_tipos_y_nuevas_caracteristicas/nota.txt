@@ -1,9 +1,9 @@
 Hola, retomando mi estudio de JavaScript
-Hoy estoy estudiando Iterables & Iterators.
+Hoy estoy estudiando generators.
 Dame sugerencias, consejos, errores comunes y ayúdame a comentar el siguiente código:
 
  
-iterables & iterators
-nuevos tipos y caracteristicas iterables & iterators
+generators
+nuevos tipos y caracteristicas generators
 
 "background: rgb(70, 68, 68);"
