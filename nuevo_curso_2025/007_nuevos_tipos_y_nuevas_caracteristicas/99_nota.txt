@@ -1,5 +1,5 @@
 Hola, retomando mi estudio de JavaScript
-Hoy estoy estudiando propiedades dinamicas de los objetos.
+Hoy estoy estudiando this.
 Dame sugerencias, consejos, errores comunes y ayúdame a comentar el siguiente código:
 
  
