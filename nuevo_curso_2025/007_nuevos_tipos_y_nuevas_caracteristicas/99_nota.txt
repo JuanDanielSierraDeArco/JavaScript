@@ -1,10 +1,10 @@
 Hola, retomando mi estudio de JavaScript
-Hoy estoy estudiando proxies.
+Hoy estoy estudiando propiedades dinamicas de los objetos.
 Dame sugerencias, consejos, errores comunes y ayúdame a comentar el siguiente código:
 
  
-generators
-nuevos tipos y caracteristicas generators
+propiedades dinamicas de los objetos
+nuevos tipos y caracteristicas propiedades dinamicas de los objetos
 
 "background: rgb(70, 68, 68);"
 

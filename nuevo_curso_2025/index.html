@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+    <meta charset="UTF-8">
+    <link rel="icon" type="image/png" sizes="16x16" href="./img/favicon-16x16.png">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>This</title>
+</head>
+
+<body style="background:rgb(70, 68, 68); font-family: Arial, sans-serif; display: flex; flex-direction: column; align-items: center;">
+    
+    <h1 style="color: aliceblue;">Hay que seguir buscando tu tesoro</h1>
+    <p style="color: beige;" id="resultado"></p>
+
+    <script>
+        function buscarTesoro(loBusca) {
+            if (loBusca === true) {
+                return `🔍 Si lo buscas con dedicación y constancia, 
+                acabarás encontrando tu tesoro. No te rindas.`;
+            } else {
+                return `🌱 Si hoy no lo buscas, está bien. Lo importante es
+                 seguir intentándolo y no perder la motivación.`;
+            }
+        }
+
+        // true = lo buscas | false = no lo buscas
+        let mensaje = buscarTesoro(true);
+        document.getElementById("resultado").textContent = mensaje;
+    </script>
+</body>
+</html>
