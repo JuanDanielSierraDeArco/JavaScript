@@ -1,5 +1,5 @@
 Hola, retomando mi estudio de JavaScript
-Hoy estoy estudiando json.
+Hoy estoy estudiando WEBs APIs.
 Dame sugerencias, consejos, errores comunes y ayúdame a comentar el siguiente código:
 
  

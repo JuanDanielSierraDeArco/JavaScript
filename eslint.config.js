@@ -8,6 +8,10 @@ export default [
         console: "readonly",
         window: "readonly",
         document: "readonly",
+
+        //web APIs (Speech API)
+        speechSynthesis: "readonly",
+        SpeechSynthesisUtterance: "readonly",
       },
     },
 

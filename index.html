@@ -65,6 +65,7 @@
         <h1>Hay que seguir buscando tu tesoro</h1>
         <p id="resultado"></p>
         <footer>Confía en el proceso</footer>
+        <button id="hablar">Hablar</button>
     </div>
 
     <script>
@@ -83,6 +84,13 @@
         // true = lo buscas | false = no lo buscas
         let mensaje = buscarTesoro(true);
         document.getElementById("resultado").textContent = mensaje;
+
+        let texto = "Si buscas tu tesoro con dedicación y constancia,acabarás encontrando tu tesoro. No te rindas.";
+        const hablar = (texto) => speechSynthesis.speak(new SpeechSynthesisUtterance(texto));
+
+        document.getElementById('hablar').addEventListener('click', () => {
+          hablar(texto);
+        });
     </script>
 
 </body>
