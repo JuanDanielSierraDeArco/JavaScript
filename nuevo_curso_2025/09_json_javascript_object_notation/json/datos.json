@@ -1,0 +1,11 @@
+{
+  "cadena": "Juan Daniel",
+  "numeros": "35",
+  "boolean": "true",
+  "arreglo": ["correr", "programar", "cocinar"],
+  "objeto": {
+    "twitter":"@juandaniel",
+    "enail":"juandaniel@gmail.com"
+  },
+  "nulo": null
+}

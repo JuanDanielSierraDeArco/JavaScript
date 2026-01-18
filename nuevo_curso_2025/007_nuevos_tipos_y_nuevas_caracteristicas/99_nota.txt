@@ -1,11 +1,11 @@
 Hola, retomando mi estudio de JavaScript
-Hoy estoy estudiando this.
+Hoy estoy estudiando json.
 Dame sugerencias, consejos, errores comunes y ayúdame a comentar el siguiente código:
 
  
 propiedades dinamicas de los objetos
 nuevos tipos y caracteristicas propiedades dinamicas de los objetos
 
-"background: rgb(70, 68, 68);"
+style="background: rgb(70, 68, 68);"
 
 <link rel="icon" type="image/png" sizes="16x16" href="../../img/favicon-16x16.png">
