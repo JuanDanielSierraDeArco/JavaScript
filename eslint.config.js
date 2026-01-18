@@ -1,23 +1,19 @@
 import js from "@eslint/js";
+import globals from "globals";
 
 export default [
   js.configs.recommended,
   {
     languageOptions: {
       globals: {
-        console: "readonly",
-        window: "readonly",
-        document: "readonly",
-
-        //web APIs (Speech API)
-        speechSynthesis: "readonly",
-        SpeechSynthesisUtterance: "readonly",
+        ...globals.browser,
+        ...globals.es2021,
       },
     },
-
     rules: {
       semi: ["error", "always"],
       "no-unused-vars": "warn",
     },
   },
 ];
+
