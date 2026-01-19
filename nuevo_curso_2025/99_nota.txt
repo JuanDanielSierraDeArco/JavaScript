@@ -1,9 +1,9 @@
 Hola, retomando mi estudio de JavaScript
-Hoy estoy estudiando Nodos, Elementos y Selectores.
+Hoy estoy estudiando Atributos y Data-Attributes.
 Dame sugerencias, consejos, errores comunes y ayúdame a comentar el siguiente código:
 
  
-Nodos, Elementos y Selectores
+Atributos y Data-Attributes
 nuevos tipos y caracteristicas propiedades dinamicas de los objetos
 
 style="background: rgb(70, 68, 68);"
