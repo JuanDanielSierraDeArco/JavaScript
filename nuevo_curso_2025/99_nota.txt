@@ -9,3 +9,9 @@ nuevos tipos y caracteristicas propiedades dinamicas de los objetos
 style="background: rgb(70, 68, 68);"
 
 <link rel="icon" type="image/png" sizes="16x16" href="../../img/favicon-16x16.png">
+
+Temas del dia>
+1 - Estilos y variables CCS
+2 - Clases Clases
+3 - Texto y HTML
+4 - DOM Travernig:recoriendo el dom
