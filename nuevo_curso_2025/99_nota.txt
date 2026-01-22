@@ -1,5 +1,5 @@
 Hola, retomando mi estudio de JavaScript
-Hoy estoy estudiando Estilos y variables CCS.
+Hoy estoy Texto y HTML.
 Dame sugerencias, consejos, errores comunes y ayúdame a comentar el siguiente código:
 
  
@@ -11,7 +11,7 @@ style="background: rgb(70, 68, 68);"
 <link rel="icon" type="image/png" sizes="16x16" href="../../img/favicon-16x16.png">
 
 Temas del dia>
-1 - Estilos y variables CCS listo
-2 - Clases CSS
-3 - Texto y HTML
-4 - DOM Travernig:recoriendo el dom
+1 - Clases CSS listo
+2 - Texto y HTML
+3 - DOM Travernig:recoriendo el dom
+4 - Creando elementos y fragmentos
