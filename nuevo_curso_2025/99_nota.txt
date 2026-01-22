@@ -12,6 +12,8 @@ style="background: rgb(70, 68, 68);"
 
 Temas del dia>
 1 - Clases CSS listo
-2 - Texto y HTML
+2 - Texto y HTML listo
 3 - DOM Travernig:recoriendo el dom
 4 - Creando elementos y fragmentos
+
+dom_travernig_recoriendo_el_dom
