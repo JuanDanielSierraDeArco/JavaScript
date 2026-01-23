@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="style.css">
+  <title>Creando elementos y fragmentos</title>
+  <style>
+    :root{
+      --yellow-color: #f7df1e;
+      --dark-color: #000;
+    }
+  </style>
+</head>
+<body>
+  <h1>Manipulacion del DOM</h1>
+  <p id="que-es">
+    Lorem ipsum dolor sit amet consectetur adipisicing elit. Similique sint magnam numquam rerum eaque aspernatur
+    voluptates? Hic voluptatem minus, earum suscipit adipisci expedita culpa pariatur deserunt neque doloribus quisquam
+    deleniti!
+  </p>
+  <nav id="menu">
+    <ul>
+      <li><a href="#">Seccion 1</a></li>
+      <li><a href="#">Seccion 2</a></li>
+      <li><a href="#">Seccion 3</a></li>
+      <li><a href="#">Seccion 4</a></li>
+      <li><a href="#">Seccion 5</a></li>
+    </ul>
+  </nav>
+  <input type="text" name="nombre" placeholder="nombre" >
+  <a class="link-dom" href="index.html" data-description="Document Object Model" data-id="1" style="background-color: #f7df1e">DOM</a>
+  <section class="cards">
+    <figure class="card">
+      <img src="https://picsum.photos/id/0/200/200" alt="Tech">
+      <figcaption>Tecnologia</figcaption>
+    </figure>
+    <figure class="card">
+      <img src="https://picsum.photos/id/237/200/200" alt="Animal">
+      <figcaption>Animal</figcaption>
+    </figure>
+    <figure class="card">
+      <img src="https://picsum.photos/id/122/200/200" alt="Arte">
+      <figcaption>Arte</figcaption>
+    </figure>
+    <figure class="card">
+      <img src="https://picsum.photos/id/192/200/200" alt="personas">
+      <figcaption>Personas</figcaption>
+    </figure>
+    <figure class="card">
+      <img src="https://picsum.photos/id/200/200/200" alt="Naturaleza">
+      <figcaption>Naturaleza</figcaption>
+    </figure>
+  </section>
+  <script src="./068_creando_elementos_fragmentos.js" defer></script>
+</body>
+</html>

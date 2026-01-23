@@ -1,5 +1,5 @@
 Hola, retomando mi estudio de JavaScript
-Hoy estoy Texto y HTML.
+Hoy estoy DOM Travernig:recoriendo el dom.
 Dame sugerencias, consejos, errores comunes y ayúdame a comentar el siguiente código:
 
  
